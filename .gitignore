@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+
+#TSC generated files
+**/*.js
+**/*.js.map
