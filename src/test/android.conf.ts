@@ -83,7 +83,7 @@ export const config: Options.Testrunner = {
     runner: 'local',    
     capabilities: [{
         "platformName": "Android",
-        "appium:platformVersion": "12.0",
+        "appium:platformVersion": "11.0",
         "appium:deviceName": "Pixel 3a",
         "appium:automationName": "UiAutomator2",
         "appium:appPackage": "hippotech.bank.droid",
